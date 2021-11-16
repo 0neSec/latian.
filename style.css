@@ -1,0 +1,68 @@
+
+.hero-img{
+    width: 250px;
+    margin-top: -200px;
+    margin-right: 200px;
+}
+#hero{
+    color: aliceblue;
+    margin-top: -80px;
+}
+.row{
+    margin-top: 180px;
+}
+hr{
+    color: aliceblue;
+}
+/* footer */
+footer {
+    text-align: center;
+    padding: auto ;
+    background-color: DarkSalmon;
+    color: white;
+  }
+  /* card */
+.card{
+   float: left;
+   margin-left: 100px;
+   margin-top: 10px;
+}
+.h3 {
+    margin-top: 20px;
+    font-size: 20px;
+    color: aliceblue;
+    margin-left: 250px;
+}
+/* skil */
+.progress{
+    margin-left:250px;
+}
+.skilll{
+    margin-top: 10px;
+    margin-left: 300px;
+}
+/* contact */
+.contact{
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 10px;
+}
+.contact-me{
+    margin-top: 50px;
+}
+label{
+    color: aliceblue;
+    text-align: center;
+}
+.form-label{
+    margin-left: 350px;
+}
+.form-control{
+    margin-left: 350px;
+}
+
+
+
+
+ 
